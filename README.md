@@ -22,3 +22,4 @@ Engenheiro da Computação em formação com foco em **Sistemas Embarcados** e i
 
 ---
 *💡 "Dominando a stack completa: da solda na PCB ao código de alta abstração."*
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue)](https://lattes.cnpq.br/9814091576022006)
