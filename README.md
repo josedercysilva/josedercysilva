@@ -1,25 +1,18 @@
 # Olá, eu sou o José Dercy 👋
 
-Engenheiro da Computação em formação com foco em **Sistemas Embarcados** e integração de hardware/software de baixo nível. Busco unir a precisão do hardware à robustez de frameworks modernos como o **AOSP**.
+Engenheiro da Computação em formação, focado em **Linux, automação de infraestrutura e desenvolvimento de sistemas**. Meu objetivo é construir arquiteturas eficientes, unindo a precisão do baixo nível à previsibilidade de ambientes automatizados (Infraestrutura como Código - IaC).
 
-## 🛠️ Expertise Técnica (Prioridade: Embarcados & Baixo Nível)
+## 🛠️ Expertise Técnica
 
-**Sistemas Embarcados & Hardware**
-- **Desenvolvimento de Baixo Nível:** C/C++ com foco em segurança de memória e performance em ambiente Linux.
-- **Hardware Digital:** Design ao nível RTL usando **Verilog**.
-- **Eletrônica:** Projetos de PCBs, simulação em LTspice e montagem de circuitos analógicos.
-- **Sistemas Operacionais:** Interesse profundo na arquitetura do **Android Open Source Project (AOSP)**.
-
-**Software & Arquitetura de Alto Nível**
-- **Java Profissional:** Sólida base em **Clean Architecture**, DDD e padrões de projeto (POO).
-- **Algoritmos:** Implementação de grafos e lógica avançada para sistemas de alta performance.
-- **Mobile:** Desenvolvimento Android Nativo.
+* **Infraestrutura & Automação (Foco Atual):** Domínio avançado de Linux (Manjaro/Arch), automação de setups com Bash, conteinerização (GitHub Codespaces/Docker) e provisionamento determinístico de ambientes de desenvolvimento ("Zero-Touch").
+* **Desenvolvimento de Baixo Nível:** C/C++ (foco em performance, gerenciamento de memória e integração com sistemas Unix) e ferramentas CLI nativas (Neovim "Vanilla").
+* **Engenharia de Software:** Java Profissional (Clean Architecture, POO e algoritmos complexos de grafos).
+* **Hardware & Embarcados:** Design RTL com Verilog e fundamentos de circuitos analógicos.
 
 ## 🎓 Atuação Acadêmica
-- 🏫 Graduando em Eng. da Computação pela **UFAM**.
-- 👨‍🏫 **Monitor de Projeto de Programas (POO/Java)** no IComp/UFAM.
-- 🔬 Pesquisador de P&D no **Projeto SUPER (Samsung/UFAM)**.
 
----
-*💡 "Dominando a stack completa: da solda na PCB ao código de alta abstração."*
-[![Lattes](https://img.shields.io/badge/Lattes-Curriculo-blue)](https://lattes.cnpq.br/9814091576022006)
+* 🎓 Graduando em Engenharia da Computação pela **UFAM**.
+* 💻 Monitor de Projeto de Programas (POO/Java) no IComp/UFAM.
+* 🔬 Pesquisador de P&D no Projeto SUPER (Samsung/UFAM).
+
+*"Automatizando o caos: do baixo nível à infraestrutura na nuvem."* — [Currículo Lattes](https://lattes.cnpq.br/9814091576022006)
