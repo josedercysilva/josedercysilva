@@ -1,18 +1,24 @@
-# Olá, eu sou o José Dercy 👋
+# José Dercy
 
-Engenheiro da Computação em formação, com forte interesse em **Linux, automação de infraestrutura e desenvolvimento de sistemas**. Meu objetivo é construir arquiteturas eficientes, unindo a precisão do baixo nível à previsibilidade de ambientes automatizados.
+Engenheiro da Computação em formação (UFAM), focado em **Sistemas Operacionais, Automação de Infraestrutura e Engenharia de Software**. Priorizo arquiteturas eficientes, unindo a precisão do *bare-metal* à governança de código de alto nível.
 
-## 🛠️ Expertise Técnica
+### 🛠️ Core Stack
 
-* **Infraestrutura & Automação (Em evolução):** Vivência prática com Linux (Manjaro/Arch), explorando automação de setups com zsh e criação de ambientes reprodutíveis na nuvem (GitHub Codespaces/Docker).
-* **Desenvolvimento de Baixo Nível:** C/C++ (foco em gerenciamento de memória e integração com Unix) e uso de ferramentas CLI (Neovim).
-* **Engenharia de Software:** Java (Clean Architecture, POO e algoritmos de grafos).
-* **Hardware & Embarcados:** Design RTL com Verilog e fundamentos de circuitos analógicos.
+* **Sistemas & Baixo Nível:** C/C++, exploração de Kernel Linux (zRAM, pesquisa em eBPF), gerenciamento de memória e Neovim.
+* **Arquitetura de Software:** Java e modelagem de algoritmos complexos (Grafos/Árvores).
+* **Infraestrutura & Automação:** Manjaro Linux, IaC (Dotfiles em Lua/Bash), ambientes reprodutíveis (Codespaces/Docker) e automação de documentação (Tectonic/LaTeX).
+* **Hardware Design:** Verilog, simulação em LTSpice e aplicação de SDLC (Engenharia de Requisitos) no design de circuitos.
 
-## 🎓 Atuação Acadêmica
+### 📌 Atuação & Histórico
 
-* 🎓 Graduando em Engenharia da Computação pela **UFAM**.
-* 💻 Monitor de Projeto de Programas (POO/Java) no IComp/UFAM.
-* 🔬 Pesquisador de P&D no Projeto SUPER (Samsung/UFAM).
+* **Monitor Oficial (POO/Java)** @ Instituto de Computação (IComp/UFAM) *(Atual)*
+* **Pesquisador de P&D** @ Projeto SUPER (Samsung/UFAM) *(Concluído)*
 
-*"Explorando o baixo nível e automatizando infraestruturas."* — [Currículo Lattes](https://lattes.cnpq.br/9814091576022006)
+### 🔒 Cases de Estudo (Projetos Restritos)
+
+Aplicação de práticas da indústria em repositórios sob embargo acadêmico:
+
+* **[Hardware] Governança de Design (Eletrônica Digital II):** Implementação de *Definition of Done (DoD)* rigoroso, *Fail-Fast* no planejamento e rastreabilidade total via Issues/Pull Requests para o design e validação de módulos base em CMOS 4000. 
+
+---
+🔗 [LinkedIn](https://www.linkedin.com/in/josedercysilva/) • 📄 [Currículo Lattes](https://lattes.cnpq.br/9814091576022006)
